@@ -1,4 +1,4 @@
-# Hello, this is just a mirror of Drevarrs GW2_EI_log_combiner, since he disappeared. I can neither Update nor maintain this code.
+# Hello, this is just a mirror of Drevarr's GW2_EI_log_combiner, since he disappeared. I can neither Update nor maintain this code.
 
 
 # GW2_EI_log_combiner  ![GitHub Release](https://img.shields.io/github/v/release/Drevarr/GW2_EI_log_combiner?include_prereleases&display_name=release)
